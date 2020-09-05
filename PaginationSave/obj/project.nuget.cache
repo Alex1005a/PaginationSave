@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LkP2IwXNY8Rua/Rtle6xC4uZkcUulb4E9du7I2q+IxSqnkW28ZmCTxn/wwNmTe4EzfZgt5Wpoegk+JXsqUwXNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79211\\source\\repos\\PaginationSave\\PaginationSave\\PaginationSave.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79211\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512",
+    "C:\\Users\\79211\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}
